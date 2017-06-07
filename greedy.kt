@@ -4,6 +4,7 @@
  * This is just to get a taste of Kotlin
  */
 
+package greedy
 
 /**
  * tail-recursive Kotlin version of CS50's getFloat() function
